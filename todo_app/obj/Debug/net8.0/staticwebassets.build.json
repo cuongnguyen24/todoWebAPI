@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MS3ydr02J3iAydC+ai9wKnH35mqXgp1ts2doZ8CE9tQ=",
+  "Source": "todo_app",
+  "BasePath": "_content/todo_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
