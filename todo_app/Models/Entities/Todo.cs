@@ -1,4 +1,4 @@
-﻿namespace todo_app.Models
+﻿namespace todo_app.Models.Entities
 {
     public class Todo
     {

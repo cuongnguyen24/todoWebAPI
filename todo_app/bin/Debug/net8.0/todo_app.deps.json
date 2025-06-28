@@ -13,6 +13,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.17",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.17",
           "Swashbuckle.AspNetCore": "8.1.4",
+          "Swashbuckle.AspNetCore.Annotations": "8.1.4",
           "Swashbuckle.AspNetCore.SwaggerGen": "8.1.4",
           "System.IdentityModel.Tokens.Jwt": "8.12.1"
         },
@@ -671,6 +672,17 @@
           "Swashbuckle.AspNetCore.SwaggerUI": "8.1.4"
         }
       },
+      "Swashbuckle.AspNetCore.Annotations/8.1.4": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.SwaggerGen": "8.1.4"
+        },
+        "runtime": {
+          "lib/net8.0/Swashbuckle.AspNetCore.Annotations.dll": {
+            "assemblyVersion": "8.1.4.0",
+            "fileVersion": "8.1.4.1479"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore.Swagger/8.1.4": {
         "dependencies": {
           "Microsoft.OpenApi": "1.6.23"
@@ -1270,6 +1282,13 @@
       "sha512": "sha512-qYk8VHyvs6wML+KXtjyCgS9Aj18mcm0ZtnJeNCTlj/DYQ7A3pfLIztQgLuZS/LEMYsrTo1lSKR3IIZ5/HzVCWA==",
       "path": "swashbuckle.aspnetcore/8.1.4",
       "hashPath": "swashbuckle.aspnetcore.8.1.4.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Annotations/8.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2zcFQ1NM5HIs2psjfMqWhJA7CHW27Fcjtc5xULuLWCpDdr4CNS1/6DeZEJbJC/2FWvNEYMikPq3cber2/21NDQ==",
+      "path": "swashbuckle.aspnetcore.annotations/8.1.4",
+      "hashPath": "swashbuckle.aspnetcore.annotations.8.1.4.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.Swagger/8.1.4": {
       "type": "package",

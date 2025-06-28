@@ -68,6 +68,10 @@
               "target": "Package",
               "version": "[8.1.4, )"
             },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[8.1.4, )"
+            },
             "Swashbuckle.AspNetCore.SwaggerGen": {
               "target": "Package",
               "version": "[8.1.4, )"

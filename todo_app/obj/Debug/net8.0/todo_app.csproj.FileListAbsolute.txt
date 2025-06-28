@@ -145,3 +145,4 @@ C:\Users\Admin\source\repos\todo_app\todo_app\bin\Debug\net8.0\zh-Hans\Microsoft
 C:\Users\Admin\source\repos\todo_app\todo_app\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Admin\source\repos\todo_app\todo_app\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Admin\source\repos\todo_app\todo_app\obj\Debug\net8.0\todo_app.sourcelink.json
+C:\Users\Admin\source\repos\todo_app\todo_app\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

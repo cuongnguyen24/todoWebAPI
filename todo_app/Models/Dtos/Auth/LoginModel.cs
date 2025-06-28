@@ -1,4 +1,4 @@
-﻿namespace todo_app.Models
+﻿namespace todo_app.Models.Dtos.Auth
 {
     public class LoginModel
     {

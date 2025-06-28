@@ -928,6 +928,22 @@
           "buildMultiTargeting/Swashbuckle.AspNetCore.props": {}
         }
       },
+      "Swashbuckle.AspNetCore.Annotations/8.1.4": {
+        "type": "package",
+        "dependencies": {
+          "Swashbuckle.AspNetCore.SwaggerGen": "8.1.4"
+        },
+        "compile": {
+          "lib/net8.0/Swashbuckle.AspNetCore.Annotations.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Swashbuckle.AspNetCore.Annotations.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore.Swagger/8.1.4": {
         "type": "package",
         "dependencies": {
@@ -3178,6 +3194,27 @@
         "swashbuckle.aspnetcore.nuspec"
       ]
     },
+    "Swashbuckle.AspNetCore.Annotations/8.1.4": {
+      "sha512": "2zcFQ1NM5HIs2psjfMqWhJA7CHW27Fcjtc5xULuLWCpDdr4CNS1/6DeZEJbJC/2FWvNEYMikPq3cber2/21NDQ==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.annotations/8.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net8.0/Swashbuckle.AspNetCore.Annotations.dll",
+        "lib/net8.0/Swashbuckle.AspNetCore.Annotations.pdb",
+        "lib/net8.0/Swashbuckle.AspNetCore.Annotations.xml",
+        "lib/net9.0/Swashbuckle.AspNetCore.Annotations.dll",
+        "lib/net9.0/Swashbuckle.AspNetCore.Annotations.pdb",
+        "lib/net9.0/Swashbuckle.AspNetCore.Annotations.xml",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Annotations.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Annotations.pdb",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Annotations.xml",
+        "package-readme.md",
+        "swashbuckle.aspnetcore.annotations.8.1.4.nupkg.sha512",
+        "swashbuckle.aspnetcore.annotations.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore.Swagger/8.1.4": {
       "sha512": "w83aYEBJYNa6ZYomziwZWwXhqQPLKhZH0n8MzqqNhF1ElCGBKm71kd7W6pgIr/yu0i6ymQzrZUFSZLdvH1kY5w==",
       "type": "package",
@@ -4187,6 +4224,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.17",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.17",
       "Swashbuckle.AspNetCore >= 8.1.4",
+      "Swashbuckle.AspNetCore.Annotations >= 8.1.4",
       "Swashbuckle.AspNetCore.SwaggerGen >= 8.1.4",
       "System.IdentityModel.Tokens.Jwt >= 8.12.1"
     ]
@@ -4255,6 +4293,10 @@
             "version": "[8.0.17, )"
           },
           "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[8.1.4, )"
+          },
+          "Swashbuckle.AspNetCore.Annotations": {
             "target": "Package",
             "version": "[8.1.4, )"
           },

@@ -53,6 +53,8 @@ namespace todo_app
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Todo API", Version = "v1" });
 
+                c.EnableAnnotations();
+
                 // Thêm cấu hình Bearer token
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {

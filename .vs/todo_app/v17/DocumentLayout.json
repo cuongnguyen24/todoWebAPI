@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\todo_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\dtos\\user\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\dtos\\user\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\createtodomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\createtodomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\dtos\\user\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\dtos\\user\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\dtos\\todo\\assigntagsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\dtos\\todo\\assigntagsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,73 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "todo_app\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "todo_app\\Models\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T04:23:32.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateTodoModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\CreateTodoModel.cs",
-              "RelativeDocumentMoniker": "todo_app\\Models\\CreateTodoModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\CreateTodoModel.cs",
-              "RelativeToolTip": "todo_app\\Models\\CreateTodoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T04:18:21.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Todo.cs",
-              "RelativeDocumentMoniker": "todo_app\\Models\\Todo.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Todo.cs",
-              "RelativeToolTip": "todo_app\\Models\\Todo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T04:11:03.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TodosController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\TodosController.cs",
-              "RelativeDocumentMoniker": "todo_app\\Controllers\\TodosController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\TodosController.cs",
-              "RelativeToolTip": "todo_app\\Controllers\\TodosController.cs",
-              "ViewState": "AQIAAOcAAAAAAAAAAADwv+4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T10:51:49.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "todo_app\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "todo_app\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADwvy4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T09:20:02.606Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -109,9 +48,88 @@
               "RelativeDocumentMoniker": "todo_app\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Program.cs",
               "RelativeToolTip": "todo_app\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCsAAAAxAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T08:45:08.8Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\User\\UpdateProfileModel.cs",
+              "RelativeDocumentMoniker": "todo_app\\Models\\Dtos\\User\\UpdateProfileModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\User\\UpdateProfileModel.cs",
+              "RelativeToolTip": "todo_app\\Models\\Dtos\\User\\UpdateProfileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:43:35.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\User\\ChangePasswordModel.cs",
+              "RelativeDocumentMoniker": "todo_app\\Models\\Dtos\\User\\ChangePasswordModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\User\\ChangePasswordModel.cs",
+              "RelativeToolTip": "todo_app\\Models\\Dtos\\User\\ChangePasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:26:21.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "todo_app\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "todo_app\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:24:57.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "todo_app\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\UserController.cs",
+              "RelativeToolTip": "todo_app\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:22:50.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "todo_app\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "todo_app\\Controllers\\TodosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:38:28.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignTagsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\Todo\\AssignTagsModel.cs",
+              "RelativeDocumentMoniker": "todo_app\\Models\\Dtos\\Todo\\AssignTagsModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\Todo\\AssignTagsModel.cs",
+              "RelativeToolTip": "todo_app\\Models\\Dtos\\Todo\\AssignTagsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:37:52.076Z",
               "EditorCaption": ""
             }
           ]

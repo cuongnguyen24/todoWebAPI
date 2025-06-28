@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace todo_app.Models
+namespace todo_app.Models.Entities
 {
     public class User
     {
