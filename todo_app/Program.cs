@@ -30,6 +30,16 @@ namespace todo_app
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowFrontend", builder =>
+                {
+                    builder.WithOrigins("http://127.0.0.1:5500", "http://localhost:5500")
+                           .AllowAnyMethod()
+                           .AllowAnyHeader();
+                });
+            });
+
             // Cấu hình JWT
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
@@ -90,7 +100,8 @@ namespace todo_app
             
             app.UseSwagger();
             app.UseSwaggerUI();
-           
+
+            app.UseCors("AllowFrontend");
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseAuthorization();
