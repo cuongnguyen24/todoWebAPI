@@ -43,7 +43,7 @@ namespace todo_app.Controllers
         }
 
 
-        [HttpPut("change-password")]
+        [HttpPut("password")]
         [SwaggerOperation(Summary = "Đổi mật khẩu")]
         public async Task<IActionResult> ChangePassword([FromBody] ChangePasswordModel model)
         {
@@ -66,7 +66,7 @@ namespace todo_app.Controllers
             return Ok(new { message = "Đổi mật khẩu thành công." });
         }
 
-        [HttpPut("update-profile")]
+        [HttpPut("profile")]
         [SwaggerOperation(Summary = "Cập nhật thông tin cá nhân")]
         public async Task<IActionResult> UpdateProfile([FromBody] UpdateProfileModel model)
         {

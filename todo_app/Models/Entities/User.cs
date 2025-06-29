@@ -10,6 +10,10 @@ namespace todo_app.Models.Entities
         public string PasswordHash { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
+
+        public string RefreshToken { get; set; }
+        public DateTime RefreshTokenExpiryTime { get; set; }
+
         public ICollection<List> Lists { get; set; }
         public ICollection<Todo> Todos { get; set; }
 

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\todo_app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\dtos\\user\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\dtos\\user\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\models\\dtos\\user\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\models\\dtos\\user\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|solutionrelative:todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{655297F7-7F50-4C63-9A81-142CEA61A533}|todo_app\\todo_app.csproj|c:\\users\\admin\\source\\repos\\todo_app\\todo_app\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,13 +46,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Program.cs",
               "RelativeDocumentMoniker": "todo_app\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Program.cs",
               "RelativeToolTip": "todo_app\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T08:45:08.8Z",
               "IsPinned": true,
@@ -57,6 +61,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "todo_app\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "todo_app\\Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T00:59:19.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UpdateProfileModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\User\\UpdateProfileModel.cs",
               "RelativeDocumentMoniker": "todo_app\\Models\\Dtos\\User\\UpdateProfileModel.cs",
@@ -64,12 +81,11 @@
               "RelativeToolTip": "todo_app\\Models\\Dtos\\User\\UpdateProfileModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T09:43:35.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T09:43:35.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ChangePasswordModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\User\\ChangePasswordModel.cs",
               "RelativeDocumentMoniker": "todo_app\\Models\\Dtos\\User\\ChangePasswordModel.cs",
@@ -77,38 +93,37 @@
               "RelativeToolTip": "todo_app\\Models\\Dtos\\User\\ChangePasswordModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T09:26:21.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T09:26:21.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "todo_app\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\AuthController.cs",
               "RelativeToolTip": "todo_app\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAwwEUAAAAsAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAqwFoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T09:24:57.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "todo_app\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\UserController.cs",
               "RelativeToolTip": "todo_app\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAiAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T09:22:50.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TodosController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Controllers\\TodosController.cs",
               "RelativeDocumentMoniker": "todo_app\\Controllers\\TodosController.cs",
@@ -116,12 +131,11 @@
               "RelativeToolTip": "todo_app\\Controllers\\TodosController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:38:28.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T08:38:28.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AssignTagsModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\todo_app\\todo_app\\Models\\Dtos\\Todo\\AssignTagsModel.cs",
               "RelativeDocumentMoniker": "todo_app\\Models\\Dtos\\Todo\\AssignTagsModel.cs",
@@ -129,8 +143,7 @@
               "RelativeToolTip": "todo_app\\Models\\Dtos\\Todo\\AssignTagsModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:37:52.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T08:37:52.076Z"
             }
           ]
         }

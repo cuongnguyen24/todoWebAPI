@@ -35,10 +35,19 @@ namespace todo_app.Controllers
                 return Unauthorized("Thông tin xác thực không hợp lệ");
             }
 
-            var token = GenerateJwtToken(user);
+            // access token
+            var accesstoken = GenerateJwtToken(user);
+
+            // refresh token
+            var refreshToken = Guid.NewGuid().ToString();
+            user.RefreshToken = refreshToken;
+            user.RefreshTokenExpiryTime = DateTime.UtcNow.AddDays(7);
+            _context.SaveChanges();
+
             return Ok(new
             {
-                token,
+                accesstoken,
+                refreshToken,
                 user = new
                 {
                     user.Username
@@ -78,6 +87,36 @@ namespace todo_app.Controllers
             return Ok(new { message = "Người dùng đã đăng ký thành công" });
         }
 
+
+        [AllowAnonymous]
+        [HttpPost("/api/token/refresh")]
+        [SwaggerOperation(Summary = "Lấy access token mới bằng refresh token")]
+        public IActionResult RefreshToken([FromBody] string refreshToken)
+        {
+            var user = _context.Users.FirstOrDefault(u =>
+                u.RefreshToken == refreshToken &&
+                u.RefreshTokenExpiryTime > DateTime.UtcNow);
+
+            if (user == null)
+            {
+                return Unauthorized("Refresh token không hợp lệ hoặc đã hết hạn.");
+            }
+
+            var newAccessToken = GenerateJwtToken(user);
+            var newRefreshToken = Guid.NewGuid().ToString();
+
+            user.RefreshToken = newRefreshToken;
+            user.RefreshTokenExpiryTime = DateTime.UtcNow.AddDays(7);
+            _context.SaveChanges();
+
+            return Ok(new
+            {
+                accessToken = newAccessToken,
+                refreshToken = newRefreshToken
+            });
+        }
+
+
         private bool VerifyPassword(string password, string passwordHash)
         {
             return BCrypt.Net.BCrypt.Verify(password, passwordHash);
@@ -99,7 +138,7 @@ namespace todo_app.Controllers
                 issuer: _configuration["Jwt:Issuer"],
                 audience: _configuration["Jwt:Audience"],
                 claims: claims,
-                expires: DateTime.Now.AddHours(1),
+                expires: DateTime.Now.AddHours(1), // Thời gian hết hạn của accessToken
                 signingCredentials: creds);
 
             return new JwtSecurityTokenHandler().WriteToken(token);
